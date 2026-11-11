@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Kotost Skins: replaces the default skins Makena and Noor (slim) with Bolvanchik and KotostGames",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  }
+}
